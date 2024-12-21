@@ -22,10 +22,10 @@ system-level programming and web development. Always learning and eager to colla
 <br />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishruth-thimmaiah&size_weight=0.5&count_weight=0.5&layout=compact&hide=html%2ccss%2cscss&theme=github_dark_dimmed&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishruth-thimmaiah&size_weight=0.5&count_weight=0.5&layout=compact&hide=html%2ccss%2cscss%2cshell%2cdockerfile&theme=github_dark_dimmed&hide_border=true"
     media="(prefers-color-scheme: dark)"
     align="center"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishruth-thimmaiah&size_weight=0.5&count_weight=0.5&layout=compact&hide=html%2ccss%2cscss&theme=rose" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishruth-thimmaiah&size_weight=0.5&count_weight=0.5&layout=compact&hide=html%2ccss%2cscss%2cshell%2cdockerfile&theme=rose" />
 </picture>
 </p>
